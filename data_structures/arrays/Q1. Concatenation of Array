@@ -1,0 +1,73 @@
+# Concatenation of Array — Notes & Lessons
+
+## Problem Summary
+
+Given an array `nums` of length `n`, create a new array `ans` of length `2n` such that:
+
+* The first half is just `nums`.
+* The second half is also `nums`.
+
+Simple idea: duplicate the array.
+
+---
+
+## My Three Solutions
+
+### 1. **Pythonic one-liner**
+
+```python
+return nums * 2
+```
+
+This uses Python’s list repetition operator. Clean, simple, and efficient in Python.
+
+### 2. **Buggy manual approach** (What I wrote first)
+
+```python
+ans = []
+for i in range(len(nums)):
+    ans[i] = nums[i]
+```
+
+This fails because the list starts empty. Assigning to `ans[i]` requires `i` to already exist. The list must be pre-allocated or use `append()`.
+
+### What went wrong
+
+I tried to index into an empty list. Python lists only allow assignment to existing indices.
+
+### Lesson learned
+
+Never write to a list index unless the list already has that index. Either pre-allocate or append.
+
+---
+
+### 3. **Correct DSA-style solution**
+
+```python
+ans = [0] * (2 * len(nums))
+for i in range(len(nums)):
+    ans[i] = ans[len(nums) + i] = nums[i]
+return ans
+```
+
+This mirrors how arrays work in lower-level languages:
+
+* Allocate required memory.
+* Fill values by index.
+
+This version teaches solid array manipulation discipline.
+
+---
+
+## What I Learned
+
+* Python may be high-level, but list indexing still follows strict rules.
+* `nums * 2` is great for Python, but knowing how to manually build an array is important for DSA.
+* Pre-allocating a list is often cleaner and more efficient for problems of this type.
+* A broken solution teaches more than a working one.
+
+---
+
+## Final Thought
+
+This problem looks trivial, but it forced me to respect array boundaries and think about memory layout. Small mistakes keep me humble and sharper for bigger DSA problems.
