@@ -13,3 +13,15 @@ now also has the solution from the placement training
 # prompt
 
 Create markdown file for the given problem. include the leetcode number, problem link, write the brute force and optimized solution. explain the flow of the algorithm using an example. explain the core idea and thinking view. include the intuvtion. include the images if possible from the internet. 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1306-minimum-absolute-difference](https://github.com/lightning4747/Leetcode/tree/master/1306-minimum-absolute-difference) |
+## Sorting
+|  |
+| ------- |
+| [1306-minimum-absolute-difference](https://github.com/lightning4747/Leetcode/tree/master/1306-minimum-absolute-difference) |
+<!---LeetCode Topics End-->
