@@ -23,5 +23,14 @@ Create markdown file for the given problem. include the leetcode number, problem
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/lightning4747/Leetcode/tree/master/0242-valid-anagram) |
 | [1306-minimum-absolute-difference](https://github.com/lightning4747/Leetcode/tree/master/1306-minimum-absolute-difference) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/lightning4747/Leetcode/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/lightning4747/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
