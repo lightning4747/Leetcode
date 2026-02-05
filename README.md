@@ -20,6 +20,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 |  |
 | ------- |
 | [1306-minimum-absolute-difference](https://github.com/lightning4747/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [3651-transformed-array](https://github.com/lightning4747/Leetcode/tree/master/3651-transformed-array) |
 ## Sorting
 |  |
 | ------- |
@@ -33,4 +34,8 @@ Create markdown file for the given problem. include the leetcode number, problem
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/lightning4747/Leetcode/tree/master/0242-valid-anagram) |
+## Simulation
+|  |
+| ------- |
+| [3651-transformed-array](https://github.com/lightning4747/Leetcode/tree/master/3651-transformed-array) |
 <!---LeetCode Topics End-->
