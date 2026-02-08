@@ -19,6 +19,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 ## Array
 |  |
 | ------- |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/lightning4747/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1306-minimum-absolute-difference](https://github.com/lightning4747/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [3651-transformed-array](https://github.com/lightning4747/Leetcode/tree/master/3651-transformed-array) |
 | [3958-minimum-removals-to-balance-array](https://github.com/lightning4747/Leetcode/tree/master/3958-minimum-removals-to-balance-array) |
@@ -56,4 +57,8 @@ Create markdown file for the given problem. include the leetcode number, problem
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/lightning4747/Leetcode/tree/master/0110-balanced-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/lightning4747/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
