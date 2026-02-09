@@ -40,6 +40,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lightning4747/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/lightning4747/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/lightning4747/Leetcode/tree/master/0242-valid-anagram) |
 ## Simulation
@@ -69,6 +70,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lightning4747/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/lightning4747/Leetcode/tree/master/0045-jump-game-ii) |
 ## Greedy
 |  |
@@ -79,4 +81,8 @@ Create markdown file for the given problem. include the leetcode number, problem
 | ------- |
 | [0007-reverse-integer](https://github.com/lightning4747/Leetcode/tree/master/0007-reverse-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/lightning4747/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/lightning4747/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
