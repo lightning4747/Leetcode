@@ -74,4 +74,8 @@ Create markdown file for the given problem. include the leetcode number, problem
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/lightning4747/Leetcode/tree/master/0045-jump-game-ii) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/lightning4747/Leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
