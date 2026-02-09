@@ -78,4 +78,5 @@ Create markdown file for the given problem. include the leetcode number, problem
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/lightning4747/Leetcode/tree/master/0007-reverse-integer) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/lightning4747/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
