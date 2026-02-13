@@ -12,11 +12,14 @@ class Solution {
 
             if(total > 0) k--;
             else if (total < 0) j++;
-            else{ res.add(Arrays.asList(nums[i], nums[j], nums[k])); j++;
+            else{ res.add(Arrays.asList(nums[i], nums[j], nums[k])); j++;k--;
 
             while(nums[j] == nums[j-1] && j < k) {
                 j++;
             }
+                                while(j < k && nums[k] == nums[k+1]) {
+                        k--;
+                    }
             }
 
         }
