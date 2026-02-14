@@ -5,7 +5,7 @@ class Solution {
 
         for(int r = 0; r<= query_row;r++) {
             for(int c = 0; c <= r;c++) {
-                if(tower[r][c] >= 1.0) {
+                if(tower[r][c] > 1.0) {
                     double excess = (tower[r][c] - 1.0) / 2.0;
                     tower[r][c] = 1.0;
                     tower[r+1][c] += excess;
