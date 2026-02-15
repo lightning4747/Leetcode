@@ -47,11 +47,13 @@ Create markdown file for the given problem. include the leetcode number, problem
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lightning4747/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/lightning4747/Leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/lightning4747/Leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/lightning4747/Leetcode/tree/master/0242-valid-anagram) |
 | [4055-longest-balanced-substring-i](https://github.com/lightning4747/Leetcode/tree/master/4055-longest-balanced-substring-i) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/lightning4747/Leetcode/tree/master/0067-add-binary) |
 | [3651-transformed-array](https://github.com/lightning4747/Leetcode/tree/master/3651-transformed-array) |
 ## Sliding Window
 |  |
@@ -89,6 +91,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/lightning4747/Leetcode/tree/master/0007-reverse-integer) |
+| [0067-add-binary](https://github.com/lightning4747/Leetcode/tree/master/0067-add-binary) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/lightning4747/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Two Pointers
 |  |
@@ -102,6 +105,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/lightning4747/Leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/lightning4747/Leetcode/tree/master/0190-reverse-bits) |
 ## Counting
 |  |
