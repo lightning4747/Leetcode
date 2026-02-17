@@ -113,6 +113,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | ------- |
 | [0067-add-binary](https://github.com/lightning4747/Leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/lightning4747/Leetcode/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/lightning4747/Leetcode/tree/master/0401-binary-watch) |
 ## Counting
 |  |
 | ------- |
@@ -121,4 +122,8 @@ Create markdown file for the given problem. include the leetcode number, problem
 |  |
 | ------- |
 | [4055-longest-balanced-substring-i](https://github.com/lightning4747/Leetcode/tree/master/4055-longest-balanced-substring-i) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/lightning4747/Leetcode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
