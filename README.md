@@ -84,6 +84,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0005-longest-palindromic-substring](https://github.com/lightning4747/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/lightning4747/Leetcode/tree/master/0045-jump-game-ii) |
 | [0152-maximum-product-subarray](https://github.com/lightning4747/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/lightning4747/Leetcode/tree/master/0338-counting-bits) |
 | [0815-champagne-tower](https://github.com/lightning4747/Leetcode/tree/master/0815-champagne-tower) |
 ## Greedy
 |  |
@@ -116,6 +117,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0067-add-binary](https://github.com/lightning4747/Leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/lightning4747/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/lightning4747/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/lightning4747/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/lightning4747/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0401-binary-watch](https://github.com/lightning4747/Leetcode/tree/master/0401-binary-watch) |
 ## Counting
