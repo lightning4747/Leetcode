@@ -120,6 +120,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0338-counting-bits](https://github.com/lightning4747/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/lightning4747/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0401-binary-watch](https://github.com/lightning4747/Leetcode/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/lightning4747/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Counting
 |  |
 | ------- |
