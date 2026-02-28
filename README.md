@@ -133,4 +133,12 @@ Create markdown file for the given problem. include the leetcode number, problem
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/lightning4747/Leetcode/tree/master/0401-binary-watch) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/lightning4747/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/lightning4747/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
