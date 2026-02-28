@@ -49,6 +49,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lightning4747/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/lightning4747/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/lightning4747/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/lightning4747/Leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/lightning4747/Leetcode/tree/master/0242-valid-anagram) |
@@ -148,4 +149,8 @@ Create markdown file for the given problem. include the leetcode number, problem
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/lightning4747/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/lightning4747/Leetcode/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/lightning4747/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
