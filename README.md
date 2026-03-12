@@ -19,6 +19,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/lightning4747/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/lightning4747/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lightning4747/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/lightning4747/Leetcode/tree/master/0031-next-permutation) |
@@ -48,6 +49,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/lightning4747/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/lightning4747/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/lightning4747/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/lightning4747/Leetcode/tree/master/0217-contains-duplicate) |
