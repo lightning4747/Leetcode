@@ -1,21 +1,17 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
+        int ssum = 0;
+        int tsum = 0;
         if(s.length() != t.length()) return false;
 
-        Map<Character, Integer> map = new HashMap<>();
-
         for(int i =0;i<s.length();i++) {
-            char ch = s.charAt(i);
-            map.put(ch, map.getOrDefault(ch,0) + 1);
-        }   
+            char chs = s.charAt(i);
+            char cht = t.charAt(i);
 
-        for (int i =0;i<t.length();i++) {
-            char ch = t.charAt(i);
-            if(!map.containsKey(ch) || map.get(ch) == 0) return false;
-            map.put(ch, map.get(ch) -1);
+            ssum+= (int) chs;
+            tsum+= (int) cht;
         }
-
-        return true;
-
+        if(ssum == tsum ) return true;
+        return false;
     }
 }
