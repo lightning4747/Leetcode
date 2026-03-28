@@ -1,35 +1,28 @@
 class Solution {
     public String longestPalindrome(String s) {
-        String ans = "";
-        for(int i =0; i<s.length(); i++) {
-            String a = helper(i,i,s);
-            String b = helper(i,i+1,s);
-            if(a.length() > ans.length()) ans = a;
-            if(b.length() > ans.length()) ans = b;
-        } 
-        return ans;
+        if(s == null || s.length() == 0) {
+            return "";
+        }
+        int start = 0;
+        int end = 0;
+        for(int i =0;i<s.length();i++) {
+            int odd = center(s, i,i);
+            int even = center(s, i,i+1);
+            int max = Math.max(odd, even);
+
+            if(max > end - start) {
+                start = i - (max - 1)/2;
+                end = i + (max)/2;
+            }
+        }
+        return s.substring(start, end +1);
     }
-    private String helper(int i , int j, String s) {
-        String common = "";
-        String ans = "";
 
-        while(i>= 0 && j <s.length()) {
-            if(s.charAt(i) == s.charAt(j)) {
-                if(i == j) common = s.charAt(i)+"";
-                else ans+= s.charAt(i);
+    private int center(String s , int left, int right) {
+        while(left >=0 && right < s.length() && s.charAt(left) == s.charAt(right)){
+        left--;right++;
+        }
 
-                i--;
-                j++;
-            }
-            else {
-                break;
-            }
-        }
-        String rev = "";
-        for(int k =ans.length()-1; k>=0;k--) {
-            rev += ans.charAt(k);
-        }
-        ans = rev + common + ans;
-        return ans;
+        return right - left -1 ;
     }
 }
