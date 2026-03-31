@@ -87,6 +87,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/lightning4747/Leetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2708-find-the-string-with-lcp](https://github.com/lightning4747/Leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/lightning4747/Leetcode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3770-lexicographically-smallest-generated-string](https://github.com/lightning4747/Leetcode/tree/master/3770-lexicographically-smallest-generated-string) |
 | [4055-longest-balanced-substring-i](https://github.com/lightning4747/Leetcode/tree/master/4055-longest-balanced-substring-i) |
 ## Simulation
 |  |
@@ -142,6 +143,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0045-jump-game-ii](https://github.com/lightning4747/Leetcode/tree/master/0045-jump-game-ii) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/lightning4747/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2708-find-the-string-with-lcp](https://github.com/lightning4747/Leetcode/tree/master/2708-find-the-string-with-lcp) |
+| [3770-lexicographically-smallest-generated-string](https://github.com/lightning4747/Leetcode/tree/master/3770-lexicographically-smallest-generated-string) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/lightning4747/Leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Math
 |  |
@@ -273,4 +275,8 @@ Create markdown file for the given problem. include the leetcode number, problem
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/lightning4747/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## String Matching
+|  |
+| ------- |
+| [3770-lexicographically-smallest-generated-string](https://github.com/lightning4747/Leetcode/tree/master/3770-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
