@@ -25,6 +25,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0031-next-permutation](https://github.com/lightning4747/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/lightning4747/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/lightning4747/Leetcode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/lightning4747/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/lightning4747/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/lightning4747/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/lightning4747/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -155,6 +156,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | ------- |
 | [0007-reverse-integer](https://github.com/lightning4747/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/lightning4747/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/lightning4747/Leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/lightning4747/Leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/lightning4747/Leetcode/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/lightning4747/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -253,6 +255,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/lightning4747/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/lightning4747/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/lightning4747/Leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/lightning4747/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
