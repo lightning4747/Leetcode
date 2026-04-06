@@ -30,6 +30,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0053-maximum-subarray](https://github.com/lightning4747/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/lightning4747/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/lightning4747/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/lightning4747/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/lightning4747/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/lightning4747/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/lightning4747/Leetcode/tree/master/0118-pascals-triangle) |
@@ -137,6 +138,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/lightning4747/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/lightning4747/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lightning4747/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/lightning4747/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lightning4747/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -276,6 +278,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | ------- |
 | [0048-rotate-image](https://github.com/lightning4747/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/lightning4747/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/lightning4747/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/lightning4747/Leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/lightning4747/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2708-find-the-string-with-lcp](https://github.com/lightning4747/Leetcode/tree/master/2708-find-the-string-with-lcp) |
