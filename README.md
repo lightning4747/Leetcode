@@ -111,6 +111,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | ------- |
 | [0067-add-binary](https://github.com/lightning4747/Leetcode/tree/master/0067-add-binary) |
 | [0906-walking-robot-simulation](https://github.com/lightning4747/Leetcode/tree/master/0906-walking-robot-simulation) |
+| [2178-walking-robot-simulation-ii](https://github.com/lightning4747/Leetcode/tree/master/2178-walking-robot-simulation-ii) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/lightning4747/Leetcode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2846-robot-collisions](https://github.com/lightning4747/Leetcode/tree/master/2846-robot-collisions) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/lightning4747/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -292,6 +293,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | ------- |
 | [0146-lru-cache](https://github.com/lightning4747/Leetcode/tree/master/0146-lru-cache) |
 | [1728-fancy-sequence](https://github.com/lightning4747/Leetcode/tree/master/1728-fancy-sequence) |
+| [2178-walking-robot-simulation-ii](https://github.com/lightning4747/Leetcode/tree/master/2178-walking-robot-simulation-ii) |
 ## Segment Tree
 |  |
 | ------- |
