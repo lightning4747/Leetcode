@@ -59,6 +59,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [3723-sum-of-good-numbers](https://github.com/lightning4747/Leetcode/tree/master/3723-sum-of-good-numbers) |
 | [3849-equal-sum-grid-partition-i](https://github.com/lightning4747/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3958-minimum-removals-to-balance-array](https://github.com/lightning4747/Leetcode/tree/master/3958-minimum-removals-to-balance-array) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/lightning4747/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Sorting
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [2846-robot-collisions](https://github.com/lightning4747/Leetcode/tree/master/2846-robot-collisions) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/lightning4747/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3651-transformed-array](https://github.com/lightning4747/Leetcode/tree/master/3651-transformed-array) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/lightning4747/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -209,6 +211,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0053-maximum-subarray](https://github.com/lightning4747/Leetcode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/lightning4747/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/lightning4747/Leetcode/tree/master/0191-number-of-1-bits) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/lightning4747/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Bit Manipulation
 |  |
 | ------- |
