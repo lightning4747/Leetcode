@@ -61,6 +61,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [3849-equal-sum-grid-partition-i](https://github.com/lightning4747/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3958-minimum-removals-to-balance-array](https://github.com/lightning4747/Leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/lightning4747/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
+| [3975-xor-after-range-multiplication-queries-ii](https://github.com/lightning4747/Leetcode/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -215,6 +216,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0191-number-of-1-bits](https://github.com/lightning4747/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0493-reverse-pairs](https://github.com/lightning4747/Leetcode/tree/master/0493-reverse-pairs) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/lightning4747/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
+| [3975-xor-after-range-multiplication-queries-ii](https://github.com/lightning4747/Leetcode/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
