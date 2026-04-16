@@ -66,6 +66,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/lightning4747/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3651-transformed-array](https://github.com/lightning4747/Leetcode/tree/master/3651-transformed-array) |
 | [3723-sum-of-good-numbers](https://github.com/lightning4747/Leetcode/tree/master/3723-sum-of-good-numbers) |
+| [3750-closest-equal-element-queries](https://github.com/lightning4747/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3849-equal-sum-grid-partition-i](https://github.com/lightning4747/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3958-minimum-removals-to-balance-array](https://github.com/lightning4747/Leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/lightning4747/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
@@ -109,6 +110,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [1392-find-the-difference-of-two-arrays](https://github.com/lightning4747/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lightning4747/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/lightning4747/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3750-closest-equal-element-queries](https://github.com/lightning4747/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [4055-longest-balanced-substring-i](https://github.com/lightning4747/Leetcode/tree/master/4055-longest-balanced-substring-i) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/lightning4747/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/lightning4747/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
@@ -176,6 +178,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0493-reverse-pairs](https://github.com/lightning4747/Leetcode/tree/master/0493-reverse-pairs) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lightning4747/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/lightning4747/Leetcode/tree/master/0792-binary-search) |
+| [3750-closest-equal-element-queries](https://github.com/lightning4747/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/lightning4747/Leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Dynamic Programming
 |  |
