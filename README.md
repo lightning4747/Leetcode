@@ -129,6 +129,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0424-longest-repeating-character-replacement](https://github.com/lightning4747/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/lightning4747/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0742-to-lower-case](https://github.com/lightning4747/Leetcode/tree/master/0742-to-lower-case) |
+| [1274-number-of-days-between-two-dates](https://github.com/lightning4747/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/lightning4747/Leetcode/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/lightning4747/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/lightning4747/Leetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -223,6 +224,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0202-happy-number](https://github.com/lightning4747/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/lightning4747/Leetcode/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/lightning4747/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [1274-number-of-days-between-two-dates](https://github.com/lightning4747/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1395-minimum-time-visiting-all-points](https://github.com/lightning4747/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1728-fancy-sequence](https://github.com/lightning4747/Leetcode/tree/master/1728-fancy-sequence) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/lightning4747/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
