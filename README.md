@@ -73,6 +73,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/lightning4747/Leetcode/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/lightning4747/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/lightning4747/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/lightning4747/Leetcode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +115,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [4055-longest-balanced-substring-i](https://github.com/lightning4747/Leetcode/tree/master/4055-longest-balanced-substring-i) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/lightning4747/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/lightning4747/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/lightning4747/Leetcode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
@@ -223,6 +225,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [2608-count-the-digits-that-divide-a-number](https://github.com/lightning4747/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/lightning4747/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/lightning4747/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/lightning4747/Leetcode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
 |  |
 | ------- |
