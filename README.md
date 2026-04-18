@@ -237,6 +237,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/lightning4747/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/lightning4747/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/lightning4747/Leetcode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
+| [4168-mirror-distance-of-an-integer](https://github.com/lightning4747/Leetcode/tree/master/4168-mirror-distance-of-an-integer) |
 ## Two Pointers
 |  |
 | ------- |
