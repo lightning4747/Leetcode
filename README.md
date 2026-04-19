@@ -57,6 +57,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lightning4747/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/lightning4747/Leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/lightning4747/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/lightning4747/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/lightning4747/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2554-minimum-total-distance-traveled](https://github.com/lightning4747/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lightning4747/Leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
@@ -190,6 +191,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0493-reverse-pairs](https://github.com/lightning4747/Leetcode/tree/master/0493-reverse-pairs) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lightning4747/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/lightning4747/Leetcode/tree/master/0792-binary-search) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/lightning4747/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [3750-closest-equal-element-queries](https://github.com/lightning4747/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/lightning4747/Leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Dynamic Programming
@@ -255,6 +257,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0234-palindrome-linked-list](https://github.com/lightning4747/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/lightning4747/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/lightning4747/Leetcode/tree/master/0647-palindromic-substrings) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/lightning4747/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 ## Divide and Conquer
 |  |
 | ------- |
