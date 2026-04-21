@@ -56,6 +56,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [1395-minimum-time-visiting-all-points](https://github.com/lightning4747/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lightning4747/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/lightning4747/Leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1840-minimize-hamming-distance-after-swap-operations](https://github.com/lightning4747/Leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/lightning4747/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/lightning4747/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/lightning4747/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -178,6 +179,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | ------- |
 | [0079-word-search](https://github.com/lightning4747/Leetcode/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/lightning4747/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [1840-minimize-hamming-distance-after-swap-operations](https://github.com/lightning4747/Leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 ## Binary Tree
 |  |
 | ------- |
@@ -334,6 +336,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/lightning4747/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1840-minimize-hamming-distance-after-swap-operations](https://github.com/lightning4747/Leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2708-find-the-string-with-lcp](https://github.com/lightning4747/Leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/lightning4747/Leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
