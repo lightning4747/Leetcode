@@ -75,6 +75,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/lightning4747/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/lightning4747/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/lightning4747/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3470-maximum-score-from-grid-operations](https://github.com/lightning4747/Leetcode/tree/master/3470-maximum-score-from-grid-operations) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/lightning4747/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3651-transformed-array](https://github.com/lightning4747/Leetcode/tree/master/3651-transformed-array) |
 | [3723-sum-of-good-numbers](https://github.com/lightning4747/Leetcode/tree/master/3723-sum-of-good-numbers) |
@@ -226,6 +227,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/lightning4747/Leetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2554-minimum-total-distance-traveled](https://github.com/lightning4747/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2708-find-the-string-with-lcp](https://github.com/lightning4747/Leetcode/tree/master/2708-find-the-string-with-lcp) |
+| [3470-maximum-score-from-grid-operations](https://github.com/lightning4747/Leetcode/tree/master/3470-maximum-score-from-grid-operations) |
 ## Greedy
 |  |
 | ------- |
@@ -346,6 +348,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/lightning4747/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [3031-construct-product-matrix](https://github.com/lightning4747/Leetcode/tree/master/3031-construct-product-matrix) |
+| [3470-maximum-score-from-grid-operations](https://github.com/lightning4747/Leetcode/tree/master/3470-maximum-score-from-grid-operations) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/lightning4747/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3849-equal-sum-grid-partition-i](https://github.com/lightning4747/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Union-Find
@@ -381,6 +384,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [3031-construct-product-matrix](https://github.com/lightning4747/Leetcode/tree/master/3031-construct-product-matrix) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/lightning4747/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/lightning4747/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3470-maximum-score-from-grid-operations](https://github.com/lightning4747/Leetcode/tree/master/3470-maximum-score-from-grid-operations) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/lightning4747/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3849-equal-sum-grid-partition-i](https://github.com/lightning4747/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Design
