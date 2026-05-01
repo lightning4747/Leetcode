@@ -47,6 +47,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0229-majority-element-ii](https://github.com/lightning4747/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/lightning4747/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/lightning4747/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0396-rotate-function](https://github.com/lightning4747/Leetcode/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lightning4747/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/lightning4747/Leetcode/tree/master/0493-reverse-pairs) |
 | [0682-baseball-game](https://github.com/lightning4747/Leetcode/tree/master/0682-baseball-game) |
@@ -223,6 +224,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lightning4747/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/lightning4747/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/lightning4747/Leetcode/tree/master/0338-counting-bits) |
+| [0396-rotate-function](https://github.com/lightning4747/Leetcode/tree/master/0396-rotate-function) |
 | [0647-palindromic-substrings](https://github.com/lightning4747/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0815-champagne-tower](https://github.com/lightning4747/Leetcode/tree/master/0815-champagne-tower) |
 | [0875-longest-mountain-in-array](https://github.com/lightning4747/Leetcode/tree/master/0875-longest-mountain-in-array) |
@@ -255,6 +257,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0202-happy-number](https://github.com/lightning4747/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/lightning4747/Leetcode/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/lightning4747/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0396-rotate-function](https://github.com/lightning4747/Leetcode/tree/master/0396-rotate-function) |
 | [1274-number-of-days-between-two-dates](https://github.com/lightning4747/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1395-minimum-time-visiting-all-points](https://github.com/lightning4747/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1728-fancy-sequence](https://github.com/lightning4747/Leetcode/tree/master/1728-fancy-sequence) |
