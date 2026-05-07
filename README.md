@@ -88,6 +88,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [3958-minimum-removals-to-balance-array](https://github.com/lightning4747/Leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/lightning4747/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/lightning4747/Leetcode/tree/master/3975-xor-after-range-multiplication-queries-ii) |
+| [3981-jump-game-ix](https://github.com/lightning4747/Leetcode/tree/master/3981-jump-game-ix) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/lightning4747/Leetcode/tree/master/3986-maximum-path-score-in-a-grid) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/lightning4747/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/lightning4747/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
@@ -237,6 +238,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [2554-minimum-total-distance-traveled](https://github.com/lightning4747/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2708-find-the-string-with-lcp](https://github.com/lightning4747/Leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [3470-maximum-score-from-grid-operations](https://github.com/lightning4747/Leetcode/tree/master/3470-maximum-score-from-grid-operations) |
+| [3981-jump-game-ix](https://github.com/lightning4747/Leetcode/tree/master/3981-jump-game-ix) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/lightning4747/Leetcode/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Greedy
 |  |
