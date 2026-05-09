@@ -225,6 +225,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0005-longest-palindromic-substring](https://github.com/lightning4747/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/lightning4747/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/lightning4747/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/lightning4747/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/lightning4747/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lightning4747/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/lightning4747/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -260,6 +261,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0048-rotate-image](https://github.com/lightning4747/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/lightning4747/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/lightning4747/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/lightning4747/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/lightning4747/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/lightning4747/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/lightning4747/Leetcode/tree/master/0258-add-digits) |
@@ -464,4 +466,8 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/lightning4747/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/lightning4747/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/lightning4747/Leetcode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/lightning4747/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
