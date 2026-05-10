@@ -1,20 +1,16 @@
 class Solution {
     public int[] countBits(int n) {
-        int[] res = new int[n+1];
-        for(int i=0; i<=n;i++) {
-            res[i] = res[i/2] + (i & 1);
-        }
+      int[] res = new int[n+1];
 
-        return res;
-    }
-
-    public int getcount(int n) {
+      for(int i =0;i<= n;i++) {
+        int temp = i;
         int count = 0;
-
-        while(n!=0) {
-            count += n%2;
-            n/=2;
+        while(temp !=0) {
+            count+= temp%2;
+            temp /=2;
         }
-        return count;
+        res[i] = count;
+      }  
+    return res;
     }
 }
