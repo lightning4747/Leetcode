@@ -74,6 +74,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lightning4747/Leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2708-find-the-string-with-lcp](https://github.com/lightning4747/Leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2846-robot-collisions](https://github.com/lightning4747/Leetcode/tree/master/2846-robot-collisions) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/lightning4747/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3031-construct-product-matrix](https://github.com/lightning4747/Leetcode/tree/master/3031-construct-product-matrix) |
 | [3194-find-words-containing-character](https://github.com/lightning4747/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/lightning4747/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -240,6 +241,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/lightning4747/Leetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2554-minimum-total-distance-traveled](https://github.com/lightning4747/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2708-find-the-string-with-lcp](https://github.com/lightning4747/Leetcode/tree/master/2708-find-the-string-with-lcp) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/lightning4747/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3470-maximum-score-from-grid-operations](https://github.com/lightning4747/Leetcode/tree/master/3470-maximum-score-from-grid-operations) |
 | [3981-jump-game-ix](https://github.com/lightning4747/Leetcode/tree/master/3981-jump-game-ix) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/lightning4747/Leetcode/tree/master/3986-maximum-path-score-in-a-grid) |
