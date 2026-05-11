@@ -33,6 +33,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0073-set-matrix-zeroes](https://github.com/lightning4747/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/lightning4747/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/lightning4747/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/lightning4747/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/lightning4747/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/lightning4747/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/lightning4747/Leetcode/tree/master/0118-pascals-triangle) |
@@ -318,6 +319,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/lightning4747/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/lightning4747/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/lightning4747/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/lightning4747/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/lightning4747/Leetcode/tree/master/0191-number-of-1-bits) |
@@ -342,6 +344,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/lightning4747/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/lightning4747/Leetcode/tree/master/0079-word-search) |
 | [0401-binary-watch](https://github.com/lightning4747/Leetcode/tree/master/0401-binary-watch) |
 | [0800-letter-case-permutation](https://github.com/lightning4747/Leetcode/tree/master/0800-letter-case-permutation) |
