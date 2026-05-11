@@ -73,6 +73,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [2199-two-furthest-houses-with-different-colors](https://github.com/lightning4747/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2554-minimum-total-distance-traveled](https://github.com/lightning4747/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lightning4747/Leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/lightning4747/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2708-find-the-string-with-lcp](https://github.com/lightning4747/Leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2846-robot-collisions](https://github.com/lightning4747/Leetcode/tree/master/2846-robot-collisions) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/lightning4747/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -178,6 +179,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/lightning4747/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2178-walking-robot-simulation-ii](https://github.com/lightning4747/Leetcode/tree/master/2178-walking-robot-simulation-ii) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/lightning4747/Leetcode/tree/master/2197-decode-the-slanted-ciphertext) |
+| [2639-separate-the-digits-in-an-array](https://github.com/lightning4747/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2846-robot-collisions](https://github.com/lightning4747/Leetcode/tree/master/2846-robot-collisions) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/lightning4747/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3651-transformed-array](https://github.com/lightning4747/Leetcode/tree/master/3651-transformed-array) |
