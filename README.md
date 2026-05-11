@@ -155,6 +155,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0424-longest-repeating-character-replacement](https://github.com/lightning4747/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/lightning4747/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0742-to-lower-case](https://github.com/lightning4747/Leetcode/tree/master/0742-to-lower-case) |
+| [0800-letter-case-permutation](https://github.com/lightning4747/Leetcode/tree/master/0800-letter-case-permutation) |
 | [1274-number-of-days-between-two-dates](https://github.com/lightning4747/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/lightning4747/Leetcode/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/lightning4747/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -325,6 +326,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0371-sum-of-two-integers](https://github.com/lightning4747/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0401-binary-watch](https://github.com/lightning4747/Leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/lightning4747/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0800-letter-case-permutation](https://github.com/lightning4747/Leetcode/tree/master/0800-letter-case-permutation) |
 ## Counting
 |  |
 | ------- |
@@ -342,6 +344,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | ------- |
 | [0079-word-search](https://github.com/lightning4747/Leetcode/tree/master/0079-word-search) |
 | [0401-binary-watch](https://github.com/lightning4747/Leetcode/tree/master/0401-binary-watch) |
+| [0800-letter-case-permutation](https://github.com/lightning4747/Leetcode/tree/master/0800-letter-case-permutation) |
 ## Linked List
 |  |
 | ------- |
