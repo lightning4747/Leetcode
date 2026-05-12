@@ -25,6 +25,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0031-next-permutation](https://github.com/lightning4747/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/lightning4747/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/lightning4747/Leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/lightning4747/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/lightning4747/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/lightning4747/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/lightning4747/Leetcode/tree/master/0053-maximum-subarray) |
@@ -344,6 +345,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/lightning4747/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/lightning4747/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/lightning4747/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/lightning4747/Leetcode/tree/master/0079-word-search) |
