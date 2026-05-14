@@ -81,6 +81,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [2708-find-the-string-with-lcp](https://github.com/lightning4747/Leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2846-robot-collisions](https://github.com/lightning4747/Leetcode/tree/master/2846-robot-collisions) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/lightning4747/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2892-check-if-array-is-good](https://github.com/lightning4747/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3031-construct-product-matrix](https://github.com/lightning4747/Leetcode/tree/master/3031-construct-product-matrix) |
 | [3194-find-words-containing-character](https://github.com/lightning4747/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/lightning4747/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -118,6 +119,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [1845-largest-submatrix-with-rearrangements](https://github.com/lightning4747/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2554-minimum-total-distance-traveled](https://github.com/lightning4747/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2846-robot-collisions](https://github.com/lightning4747/Leetcode/tree/master/2846-robot-collisions) |
+| [2892-check-if-array-is-good](https://github.com/lightning4747/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3958-minimum-removals-to-balance-array](https://github.com/lightning4747/Leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Hash Table
 |  |
@@ -140,6 +142,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [1392-find-the-difference-of-two-arrays](https://github.com/lightning4747/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lightning4747/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/lightning4747/Leetcode/tree/master/1793-minimum-moves-to-make-array-complementary) |
+| [2892-check-if-array-is-good](https://github.com/lightning4747/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3227-find-missing-and-repeated-values](https://github.com/lightning4747/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3750-closest-equal-element-queries](https://github.com/lightning4747/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/lightning4747/Leetcode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
