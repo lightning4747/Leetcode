@@ -24,6 +24,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0015-3sum](https://github.com/lightning4747/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/lightning4747/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/lightning4747/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/lightning4747/Leetcode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/lightning4747/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/lightning4747/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/lightning4747/Leetcode/tree/master/0048-rotate-image) |
@@ -352,6 +353,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/lightning4747/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/lightning4747/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/lightning4747/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/lightning4747/Leetcode/tree/master/0078-subsets) |
