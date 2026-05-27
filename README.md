@@ -156,6 +156,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [2892-check-if-array-is-good](https://github.com/lightning4747/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3227-find-missing-and-repeated-values](https://github.com/lightning4747/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/lightning4747/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/lightning4747/Leetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/lightning4747/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3750-closest-equal-element-queries](https://github.com/lightning4747/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/lightning4747/Leetcode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -190,6 +191,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [3019-furthest-point-from-origin](https://github.com/lightning4747/Leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3194-find-words-containing-character](https://github.com/lightning4747/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/lightning4747/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/lightning4747/Leetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/lightning4747/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/lightning4747/Leetcode/tree/master/3770-lexicographically-smallest-generated-string) |
 | [4055-longest-balanced-substring-i](https://github.com/lightning4747/Leetcode/tree/master/4055-longest-balanced-substring-i) |
