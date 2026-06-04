@@ -289,6 +289,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [3470-maximum-score-from-grid-operations](https://github.com/lightning4747/Leetcode/tree/master/3470-maximum-score-from-grid-operations) |
 | [3981-jump-game-ix](https://github.com/lightning4747/Leetcode/tree/master/3981-jump-game-ix) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/lightning4747/Leetcode/tree/master/3986-maximum-path-score-in-a-grid) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/lightning4747/Leetcode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -324,6 +325,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/lightning4747/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/lightning4747/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/lightning4747/Leetcode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/lightning4747/Leetcode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/lightning4747/Leetcode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/lightning4747/Leetcode/tree/master/4168-mirror-distance-of-an-integer) |
 ## Two Pointers
@@ -388,6 +390,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0875-longest-mountain-in-array](https://github.com/lightning4747/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [3849-equal-sum-grid-partition-i](https://github.com/lightning4747/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [4055-longest-balanced-substring-i](https://github.com/lightning4747/Leetcode/tree/master/4055-longest-balanced-substring-i) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/lightning4747/Leetcode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Backtracking
 |  |
 | ------- |
