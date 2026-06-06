@@ -88,6 +88,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [2634-minimum-common-value](https://github.com/lightning4747/Leetcode/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/lightning4747/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2708-find-the-string-with-lcp](https://github.com/lightning4747/Leetcode/tree/master/2708-find-the-string-with-lcp) |
+| [2714-left-and-right-sum-differences](https://github.com/lightning4747/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2846-robot-collisions](https://github.com/lightning4747/Leetcode/tree/master/2846-robot-collisions) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/lightning4747/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2892-check-if-array-is-good](https://github.com/lightning4747/Leetcode/tree/master/2892-check-if-array-is-good) |
@@ -439,6 +440,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0303-range-sum-query-immutable](https://github.com/lightning4747/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/lightning4747/Leetcode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [2001-jump-game-vii](https://github.com/lightning4747/Leetcode/tree/master/2001-jump-game-vii) |
+| [2714-left-and-right-sum-differences](https://github.com/lightning4747/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3031-construct-product-matrix](https://github.com/lightning4747/Leetcode/tree/master/3031-construct-product-matrix) |
 | [3470-maximum-score-from-grid-operations](https://github.com/lightning4747/Leetcode/tree/master/3470-maximum-score-from-grid-operations) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/lightning4747/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
