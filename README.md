@@ -241,6 +241,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/lightning4747/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/lightning4747/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/lightning4747/Leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -249,6 +250,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/lightning4747/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/lightning4747/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/lightning4747/Leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/lightning4747/Leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -335,6 +337,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [2608-count-the-digits-that-divide-a-number](https://github.com/lightning4747/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/lightning4747/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/lightning4747/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/lightning4747/Leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/lightning4747/Leetcode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/lightning4747/Leetcode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/lightning4747/Leetcode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
