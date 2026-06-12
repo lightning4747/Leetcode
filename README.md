@@ -107,6 +107,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [3651-transformed-array](https://github.com/lightning4747/Leetcode/tree/master/3651-transformed-array) |
 | [3723-sum-of-good-numbers](https://github.com/lightning4747/Leetcode/tree/master/3723-sum-of-good-numbers) |
 | [3750-closest-equal-element-queries](https://github.com/lightning4747/Leetcode/tree/master/3750-closest-equal-element-queries) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/lightning4747/Leetcode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3849-equal-sum-grid-partition-i](https://github.com/lightning4747/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/lightning4747/Leetcode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3958-minimum-removals-to-balance-array](https://github.com/lightning4747/Leetcode/tree/master/3958-minimum-removals-to-balance-array) |
@@ -243,6 +244,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/lightning4747/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/lightning4747/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/lightning4747/Leetcode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/lightning4747/Leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
@@ -252,6 +254,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/lightning4747/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/lightning4747/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/lightning4747/Leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/lightning4747/Leetcode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/lightning4747/Leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
@@ -302,6 +305,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [2708-find-the-string-with-lcp](https://github.com/lightning4747/Leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/lightning4747/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3470-maximum-score-from-grid-operations](https://github.com/lightning4747/Leetcode/tree/master/3470-maximum-score-from-grid-operations) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/lightning4747/Leetcode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3981-jump-game-ix](https://github.com/lightning4747/Leetcode/tree/master/3981-jump-game-ix) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/lightning4747/Leetcode/tree/master/3986-maximum-path-score-in-a-grid) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/lightning4747/Leetcode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
@@ -340,6 +344,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [2608-count-the-digits-that-divide-a-number](https://github.com/lightning4747/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/lightning4747/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/lightning4747/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/lightning4747/Leetcode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/lightning4747/Leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/lightning4747/Leetcode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/lightning4747/Leetcode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
@@ -398,6 +403,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0401-binary-watch](https://github.com/lightning4747/Leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/lightning4747/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0800-letter-case-permutation](https://github.com/lightning4747/Leetcode/tree/master/0800-letter-case-permutation) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/lightning4747/Leetcode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 ## Counting
 |  |
 | ------- |
