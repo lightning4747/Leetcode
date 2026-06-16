@@ -213,6 +213,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [3405-count-the-number-of-special-characters-ii](https://github.com/lightning4747/Leetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/lightning4747/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/lightning4747/Leetcode/tree/master/3770-lexicographically-smallest-generated-string) |
+| [3931-process-string-with-special-operations-i](https://github.com/lightning4747/Leetcode/tree/master/3931-process-string-with-special-operations-i) |
 | [4055-longest-balanced-substring-i](https://github.com/lightning4747/Leetcode/tree/master/4055-longest-balanced-substring-i) |
 ## Simulation
 |  |
@@ -230,6 +231,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [2846-robot-collisions](https://github.com/lightning4747/Leetcode/tree/master/2846-robot-collisions) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/lightning4747/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3651-transformed-array](https://github.com/lightning4747/Leetcode/tree/master/3651-transformed-array) |
+| [3931-process-string-with-special-operations-i](https://github.com/lightning4747/Leetcode/tree/master/3931-process-string-with-special-operations-i) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/lightning4747/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Sliding Window
 |  |
