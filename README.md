@@ -62,6 +62,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0396-rotate-function](https://github.com/lightning4747/Leetcode/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lightning4747/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/lightning4747/Leetcode/tree/master/0493-reverse-pairs) |
+| [0594-longest-harmonious-subsequence](https://github.com/lightning4747/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/lightning4747/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/lightning4747/Leetcode/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lightning4747/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -135,6 +136,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0217-contains-duplicate](https://github.com/lightning4747/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/lightning4747/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/lightning4747/Leetcode/tree/master/0242-valid-anagram) |
+| [0594-longest-harmonious-subsequence](https://github.com/lightning4747/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/lightning4747/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/lightning4747/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1466-jump-game-v](https://github.com/lightning4747/Leetcode/tree/master/1466-jump-game-v) |
@@ -166,6 +168,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0242-valid-anagram](https://github.com/lightning4747/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/lightning4747/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lightning4747/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/lightning4747/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/lightning4747/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/lightning4747/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1447-jump-game-iv](https://github.com/lightning4747/Leetcode/tree/master/1447-jump-game-iv) |
@@ -250,6 +253,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0209-minimum-size-subarray-sum](https://github.com/lightning4747/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/lightning4747/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/lightning4747/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/lightning4747/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/lightning4747/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2001-jump-game-vii](https://github.com/lightning4747/Leetcode/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/lightning4747/Leetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -431,6 +435,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/lightning4747/Leetcode/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/lightning4747/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [3019-furthest-point-from-origin](https://github.com/lightning4747/Leetcode/tree/master/3019-furthest-point-from-origin) |
 | [4055-longest-balanced-substring-i](https://github.com/lightning4747/Leetcode/tree/master/4055-longest-balanced-substring-i) |
 ## Enumeration
