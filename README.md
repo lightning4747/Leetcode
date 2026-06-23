@@ -335,6 +335,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/lightning4747/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3470-maximum-score-from-grid-operations](https://github.com/lightning4747/Leetcode/tree/master/3470-maximum-score-from-grid-operations) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/lightning4747/Leetcode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
+| [3962-number-of-zigzag-arrays-i](https://github.com/lightning4747/Leetcode/tree/master/3962-number-of-zigzag-arrays-i) |
 | [3981-jump-game-ix](https://github.com/lightning4747/Leetcode/tree/master/3981-jump-game-ix) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/lightning4747/Leetcode/tree/master/3986-maximum-path-score-in-a-grid) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/lightning4747/Leetcode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
@@ -517,6 +518,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [3470-maximum-score-from-grid-operations](https://github.com/lightning4747/Leetcode/tree/master/3470-maximum-score-from-grid-operations) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/lightning4747/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3849-equal-sum-grid-partition-i](https://github.com/lightning4747/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
+| [3962-number-of-zigzag-arrays-i](https://github.com/lightning4747/Leetcode/tree/master/3962-number-of-zigzag-arrays-i) |
 ## Union-Find
 |  |
 | ------- |
