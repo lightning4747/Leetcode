@@ -49,6 +49,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lightning4747/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/lightning4747/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lightning4747/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/lightning4747/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/lightning4747/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/lightning4747/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/lightning4747/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -135,6 +136,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0056-merge-intervals](https://github.com/lightning4747/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/lightning4747/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/lightning4747/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/lightning4747/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lightning4747/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/lightning4747/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/lightning4747/Leetcode/tree/master/0242-valid-anagram) |
@@ -164,6 +166,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0128-longest-consecutive-sequence](https://github.com/lightning4747/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/lightning4747/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/lightning4747/Leetcode/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/lightning4747/Leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/lightning4747/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/lightning4747/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/lightning4747/Leetcode/tree/master/0217-contains-duplicate) |
@@ -421,6 +424,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/lightning4747/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/lightning4747/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/lightning4747/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/lightning4747/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/lightning4747/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0493-reverse-pairs](https://github.com/lightning4747/Leetcode/tree/master/0493-reverse-pairs) |
@@ -446,6 +450,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/lightning4747/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/lightning4747/Leetcode/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/lightning4747/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/lightning4747/Leetcode/tree/master/1297-maximum-number-of-balloons) |
