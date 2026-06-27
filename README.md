@@ -108,6 +108,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [3194-find-words-containing-character](https://github.com/lightning4747/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/lightning4747/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/lightning4747/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/lightning4747/Leetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/lightning4747/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/lightning4747/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3470-maximum-score-from-grid-operations](https://github.com/lightning4747/Leetcode/tree/master/3470-maximum-score-from-grid-operations) |
@@ -190,6 +191,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [2634-minimum-common-value](https://github.com/lightning4747/Leetcode/tree/master/2634-minimum-common-value) |
 | [2892-check-if-array-is-good](https://github.com/lightning4747/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3227-find-missing-and-repeated-values](https://github.com/lightning4747/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/lightning4747/Leetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/lightning4747/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/lightning4747/Leetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/lightning4747/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -472,6 +474,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | ------- |
 | [0204-count-primes](https://github.com/lightning4747/Leetcode/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/lightning4747/Leetcode/tree/master/0875-longest-mountain-in-array) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/lightning4747/Leetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3849-equal-sum-grid-partition-i](https://github.com/lightning4747/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [4055-longest-balanced-substring-i](https://github.com/lightning4747/Leetcode/tree/master/4055-longest-balanced-substring-i) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/lightning4747/Leetcode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
