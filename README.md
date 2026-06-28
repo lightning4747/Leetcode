@@ -86,6 +86,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/lightning4747/Leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/lightning4747/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/lightning4747/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/lightning4747/Leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/lightning4747/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/lightning4747/Leetcode/tree/master/1968-maximum-building-height) |
 | [1972-rotating-the-box](https://github.com/lightning4747/Leetcode/tree/master/1972-rotating-the-box) |
@@ -150,6 +151,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [1466-jump-game-v](https://github.com/lightning4747/Leetcode/tree/master/1466-jump-game-v) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lightning4747/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/lightning4747/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/lightning4747/Leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/lightning4747/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/lightning4747/Leetcode/tree/master/1968-maximum-building-height) |
 | [2245-destroying-asteroids](https://github.com/lightning4747/Leetcode/tree/master/2245-destroying-asteroids) |
@@ -357,6 +359,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0011-container-with-most-water](https://github.com/lightning4747/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/lightning4747/Leetcode/tree/master/0045-jump-game-ii) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/lightning4747/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/lightning4747/Leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/lightning4747/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/lightning4747/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2245-destroying-asteroids](https://github.com/lightning4747/Leetcode/tree/master/2245-destroying-asteroids) |
