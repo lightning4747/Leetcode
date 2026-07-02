@@ -215,6 +215,7 @@ Create markdown file for the given problem. include the leetcode number, problem
 | [0014-longest-common-prefix](https://github.com/lightning4747/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/lightning4747/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/lightning4747/Leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/lightning4747/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/lightning4747/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/lightning4747/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/lightning4747/Leetcode/tree/master/0079-word-search) |
